@@ -1,0 +1,1 @@
+# Sample BMC Remedy rest client plugin using spring framework provided by pluginsvr
